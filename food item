@@ -1,0 +1,22 @@
+#inciude<stdio.h>
+main()
+{
+  printf("pick an menue : \n1. pizza,prize-239\n2. burger,prize-129\n3. pasta,prize-179\n4. french fries,prize-99\n5.sandwich,prize-149");
+  int choice=0;
+  scanf("%d",&hoise);
+  switch(choice)
+  {
+  case1
+  printf("you picked pizza,prize-239");
+  case2
+  printf("you picked burger,prize-129");
+  case3
+  printf("you picked pasta,prize-179");
+  case4
+  printf("you picked french fries,prize-99");
+  case5
+  printf("you picked sandwich,prize-149");
+  default :printf("invaild choise")
+  }
+  }
+  
